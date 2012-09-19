@@ -1,0 +1,1 @@
+<?php/** An abstract search engine class.  * @author Killavus  * @package Killavus  * @category Model  * @version 0.1  */  abstract class SearchEngine {	/** Performs the search procedure.	  * @returns Array|null	  * @since 0.1	  */		abstract public function start();}?>
